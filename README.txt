@@ -1,8 +1,7 @@
 
             --==== CREDITS ====--
-This code was made by Logan Kinzler for YCP's CS330
-course, taught during the 2025 Fall semester by Galin*
-Zhelezov.
+This code was made by Logan Kinzler during the month of
+October 2025.
 
 
           --==== DESCRIPTION ====--
